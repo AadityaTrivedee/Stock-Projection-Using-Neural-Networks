@@ -50,9 +50,9 @@ The neural network model is built using TensorFlow and Keras. The architecture i
 - **Training Loss**: The model achieves a low training loss, indicating a good fit on the training data.
 - **Validation Loss**: The validation loss is also low, suggesting that the model generalizes well to unseen data.
 - **MAPE**:
-  - **Training Set**: 2.3475% (**_Accuracy:97.6525_**)
-  - **Development Set**: 2.3773% (**_Accuracy:97.6227_**)
-  - **Test Set**: 2.5689% (**_Accuracy:97.4311_**)
+  - **Training Set**: 2.3475% (**_Accuracy:97.6525%_**)
+  - **Development Set**: 2.3773% (**_Accuracy:97.6227%_**)
+  - **Test Set**: 2.5689% (**_Accuracy:97.4311%_**)
 
 ## Prediction
 The model is used to predict the stock price for the next day based on the latest data point. For example:
